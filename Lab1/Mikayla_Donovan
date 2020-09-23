@@ -1,0 +1,21 @@
+<html>
+
+<style>
+
+	.body{font-family:verdana;}
+
+</style>
+
+<script type="applicaton/javascript">
+	alert("hi, welcome to the page!");
+</script>
+
+
+<body>
+
+Hi, is this the beginning of Mikayla's web map??
+
+</body>
+
+
+</html> 
